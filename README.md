@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning basic programing.
 - 💞️ I’m looking to collaborate on research project.
 - 📫 Call me just in the evening.
+- New line added.
 
 <!---
 Navaril/Navaril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
