@@ -2,7 +2,7 @@
 - 👀 I’m interested in technics.
 - 🌱 I’m currently learning basic programing.
 - 💞️ I’m looking to collaborate on research project.
-- 📫 Call me any time.
+- 📫 Call me just in the evening.
 
 <!---
 Navaril/Navaril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
